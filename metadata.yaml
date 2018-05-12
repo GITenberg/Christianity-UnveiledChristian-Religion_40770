@@ -1,0 +1,41 @@
+_repo: Christianity-UnveiledChristian-Religion_40770
+_version: 0.1.0
+alternative_title: Christianisme dévoilé. English
+contributor:
+  translator:
+    agent_name: Johnson, W. M. (William Martin)
+    alias: Johnson, William Martin
+    birthdate: 1770
+    deathdate: 1797
+    gutenberg_agent_id: '40820'
+    url: http://www.gutenberg.org/2009/agents/40820
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holbach, Paul Henri Thiry, baron d'
+    alias: D'Holbach, Baron
+    birthdate: 1723
+    deathdate: 1789
+    gutenberg_agent_id: '2420'
+    url: http://www.gutenberg.org/2009/agents/2420
+    wikipedia: http://en.wikipedia.org/wiki/Baron_d'Holbach
+description: ''
+gutenberg_issued: '2012-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40770'
+  lccn: '39024775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcsh 'Atheism'
+- !lcc 'BL'
+- !lcsh 'Free thought'
+title: "Christianity Unveiled\r\nBeing an Examination of the Principles and Effects\
+  \ of the Christian Religion"
+url: http://www.gutenberg.org/ebooks/40770
